@@ -1,5 +1,7 @@
 # Example pulumi docker repository to reproduce issue with dynamic arguments
 
+see https://github.com/pulumi/pulumi-docker/issues/620
+
 ```shell
 % pulumi preview
 Please choose a stack, or create a new one: skunkteam/dev
